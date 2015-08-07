@@ -1,0 +1,2 @@
+# BinMusicPlayer
+基于JamsMusicPlayer开发的android平台上的音乐播放器
